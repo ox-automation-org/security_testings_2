@@ -17,11 +17,11 @@
 
     <dependencies>
 
-        <dependency>
+<!--         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-core</artifactId>
             <version>${struts2.version}</version>
-        </dependency>
+        </dependency> -->
 
         <dependency>
             <groupId>org.apache.struts</groupId>
